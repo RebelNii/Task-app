@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Get money",
+      "day": "Saturday 6th June 2022",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Gaming",
+      "day": "Sunday 19th June 2022",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Revise on Laravel",
+      "day": "Monday 20th June 2022",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Church",
+      "day": "Sunday 19th June 2022",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
